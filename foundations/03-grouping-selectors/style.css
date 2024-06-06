@@ -1,0 +1,33 @@
+#first{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+#second{
+    background-color: yellow;
+}
+
+.togetherness{
+    font-family: Helvetica, "Times New Roman",  sans-serif;
+    font-size: 28px;
+}
+
+/* Actually wanted me to combine classes so code would like: 
+
+.first{
+    backround-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.second{
+    backround-color: yellow;
+}
+
+.first,
+.second {
+    font-family: Helvetica, "Times New Roman",  sans-serif;
+    font-size: 28px;
+}
+BUTTTT resutlts are exactly the same so i count that as a win */
