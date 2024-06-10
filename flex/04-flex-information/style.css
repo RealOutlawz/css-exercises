@@ -12,6 +12,16 @@ img {
   font-weight: 900;
 }
 
+.top-part{
+  display: flex;
+  justify-content: center;
+}
+
+.bottom-part{
+  display: flex;
+  flex-direction: row;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
