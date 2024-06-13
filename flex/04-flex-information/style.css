@@ -20,11 +20,13 @@ img {
 
 .bottom-part{
   display: flex;
-  flex-direction: row;
   gap: 52px;
   text-align: center;
 }
 
+.items{
+  max-width: 200px;
+}
 
 /* do not edit this footer */
 .footer {
