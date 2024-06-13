@@ -15,12 +15,16 @@ img {
 .top-part{
   display: flex;
   justify-content: center;
+  margin-bottom: 32px;
 }
 
 .bottom-part{
   display: flex;
   flex-direction: row;
+  gap: 52px;
+  text-align: center;
 }
+
 
 /* do not edit this footer */
 .footer {
